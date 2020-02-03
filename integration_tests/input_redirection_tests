@@ -1,0 +1,8 @@
+
+cat < file_1.txt 
+# tr A-Z a-z < file_1.txt
+echo myword < file_1.txt 
+tr A-Z a-z < file_1.txt
+#cat < file_1.txt 
+echo hello
+exit 

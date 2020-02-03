@@ -1,0 +1,4 @@
+echo "Testing Commented out fjsaklfjsa;fksdnafjlsan" && #Ignore me please
+#echo "Check if working"
+#ls
+exit

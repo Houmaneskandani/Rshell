@@ -1,0 +1,9 @@
+
+ tr a-z A-Z > outputfile_1.tt
+#cat < file_1.txt | tr A-Z a-z > outputfile_2.txt
+echo works > outputfile_2.txt
+echo works >> outputfile_2.txt
+ls  >> outputfile_2.txt 
+ls  > outputfile_2.txt
+# file_1.txt > outputfile_1.txt
+exit 

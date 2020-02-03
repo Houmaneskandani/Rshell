@@ -1,0 +1,5 @@
+echo H; echo E; echo L; echo P && echo M
+ls -a || ly
+ls; echo Testing
+ly || echo Or Still working
+exit

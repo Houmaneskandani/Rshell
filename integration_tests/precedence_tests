@@ -1,0 +1,5 @@
+(echo A && echo B) || (echo C && echo D)
+(ls ; echo Test)
+echo "Testing"; (echo "Another Testing")
+# ( ( echo A && echo B ) && ( echo A && echo B )) || ( ( echo A && echo B ) && ( echo A && echo B )) # more parentheses 
+exit

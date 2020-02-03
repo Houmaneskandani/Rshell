@@ -1,0 +1,5 @@
+[ -e ../src/main.cpp ] && echo “path exists”
+[ -f ../src/and.cpp ] && echo "path exists"
+echo "Third line" ; [ -f ../unit_tests/unit_test.cpp ] && echo "path exists~!"
+[ -d ../src/ ] && echo "I exist and I like it"
+exit

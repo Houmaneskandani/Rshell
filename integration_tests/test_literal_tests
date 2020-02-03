@@ -1,0 +1,6 @@
+test -e ../src/main.cpp && echo “path exists”
+test -f ../src/main.cpp
+test -d nothing; test-f ../header/interface.h
+test -d ../src/
+
+exit

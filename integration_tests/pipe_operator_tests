@@ -1,0 +1,9 @@
+ls | more
+ls | head -3
+ps aux | wc -l
+ls | more && echo no
+ls | head -1 || echo "I'm echoing something not that useful you don't have to look at me"
+
+echo DONE
+
+exit

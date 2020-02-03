@@ -1,0 +1,4 @@
+echo "Testing single command test"
+echo "Check if working"
+ls
+exit
